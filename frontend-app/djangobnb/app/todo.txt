@@ -1,0 +1,10 @@
+##1. detail page - frontend
+##2. reservation - frontend
+##3. add new offert - frontend
+4. footer
+3. deploy
+4. domena
+5. logo
+6. email
+7. testy 
+8. regulamin i polityka prywatności
